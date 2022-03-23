@@ -4,7 +4,7 @@ This is a Full Stack App made in Postgres(as database),Express to communicate be
 Node JS for backend server creation
 
 
-Front End  Final result:-->
+Front End  Final result :-->
 ![Screenshot (8)](https://user-images.githubusercontent.com/97330477/157861218-20e37866-e45e-435f-b562-164d92eb7908.png)
 
 
