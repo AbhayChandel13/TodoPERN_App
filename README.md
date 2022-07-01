@@ -1,7 +1,7 @@
 # TodoPERN_App
 
 This is a Todo list (Full Stack )App made in Postgres(as database),Express to communicate between frontend and backend ,React in FrontEnd, and 
-Node JS for backend server creation .
+Node JS for backend server creation . With all the CRUD Operations 
 
 
 Front End  Final result :-->
